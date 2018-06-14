@@ -1,3 +1,3 @@
 # Storm
 
-Use Strom Extract data from Kafka and Save in HDFS.
+With Storm to extract data from the kafka and write HDFS.
